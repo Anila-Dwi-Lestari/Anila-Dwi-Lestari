@@ -1,6 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-- 🌱 I’m currently learning in Telkom University
-- 📫 How to reach me: https://www.linkedin.com/in/aniladwilestari/
+
+🌱 I’m currently learning in Telkom University
+
+📫 How to reach me: https://www.linkedin.com/in/aniladwilestari/
 
 😄 <b>My Name Anila Dwi Lestari</b> <br>
 
