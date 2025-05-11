@@ -1,9 +1,4 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
-**Anila-Dwi-Lestari/Anila-Dwi-Lestari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning in Telkom University
 - 📫 How to reach me: https://www.linkedin.com/in/aniladwilestari/
 
