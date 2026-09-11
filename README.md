@@ -1,81 +1,64 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9acb,50:f78fb3,100:ff69b4&height=230&section=header&text=Anila%20Dwi%20Lestari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Informatics%20%7C%20UI%2FUX&descAlignY=55&descSize=18"
-    width="100%"
-  />
-</p>
+# 🎀 Hi, I'm Anila Dwi Lestari!
 
-<h1 align="center">Hi 👋, I'm Anila Dwi Lestari</h1>
+### 🌷 Informatics Student & Master's Student at Telkom University
 
-<h3 align="center">
-  Informatics Student at Telkom University
-</h3>
+**Data Science • Machine Learning • XAI • Multimodal Learning • UI/UX**
 
-<p align="center">
-  <i>Turning data, ideas, and technology into meaningful solutions.</i>
-</p>
+<img src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gif" width="360">
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=anila-dwi-lestari&label=Profile%20Views&color=ff69b4&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
+<br>
+
+<a href="https://github.com/Anila-Dwi-Lestari">
+  <img src="https://komarev.com/ghpvc/?username=Anila-Dwi-Lestari&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+</div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+## 🌸 About Me
 
-<img 
-align="right"
-alt="Coding"
-width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+Hi! I'm **Anila Dwi Lestari**, an Informatics student and Master's student at **Telkom University** who enjoys exploring technology, data, and design.
 
-### 👩🏻‍💻 About Me
+I'm particularly interested in turning data into meaningful insights and building intelligent solutions through Machine Learning.
 
-* 🎓 Informatics student at **Telkom University**
+* 🎓 Informatics Student at **Telkom University**
 * 🎓 Currently pursuing a **Master's Degree in Informatics**
 * 📊 Interested in **Data Science, Data Analysis, and Machine Learning**
 * 🤖 Exploring **Explainable AI (XAI)** and **Multimodal Learning**
 * 🔬 Interested in applying Machine Learning to real-world problems
 * 🎨 Experienced in **UI/UX Design and Product Design**
-* 💼 Currently working on **Digital Transformation & HRMS**
 * 🌱 Currently learning **Data Science**
 * 📚 Interested in **Research, Academic Writing, and Predictive Modeling**
 * 💡 I enjoy turning complex problems into simple and meaningful solutions
 
-<br clear="right"/>
+<br>
+
+<div align="center">
+
+### 🌷 A little bit of data, a little bit of design, and lots of curiosity ♡
+
+</div>
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
+## 🌱 Currently Learning
 
-### 🌱 Currently Learning
+<div align="center">
 
-<p align="center">
+`Data Analysis` · `Machine Learning` · `Explainable AI` · `Computer Vision` · `Multimodal Learning` · `Predictive Modeling`
 
-<img src="https://img.shields.io/badge/Data%20Analysis-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-ff85b3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-f78fb3?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-ff85b3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20Learning-f78fb3?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-<!-- ===================== WHAT I DO ===================== -->
-
-### 💻 What I Do
+## 💻 What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📊 Data Analysis
 
@@ -87,7 +70,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 Machine Learning
 
@@ -101,7 +84,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔍 Explainable AI
 
@@ -112,7 +95,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎨 UI/UX Design
 
@@ -126,7 +109,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🖼️ Computer Vision
 
@@ -137,7 +120,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔗 Multimodal Learning
 
@@ -152,248 +135,157 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+### 👩🏻‍💻 Programming Languages
 
-#### 👩🏻‍💻 Programming Languages
+<div align="center">
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,js&theme=light" />
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
+</div>
 
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
+### 📊 Data Science & Machine Learning
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-</a>
+<div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=light" />
 
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-
-</p>
-
-#### 📊 Data Science & Machine Learning
-
-<p align="left">
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45" alt="Scikit-Learn"/>
-</a>
-
-<a href="https://pytorch.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
-</a>
-
-<a href="https://www.tensorflow.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
-</a>
-
-</p>
-
-#### 📈 Data Visualization
-
-<p align="left">
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" alt="Power BI"/>
-</a>
-
-<a href="https://www.tableau.com/">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau"/>
-</a>
-
-<a href="https://matplotlib.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
-</a>
-
-<a href="https://seaborn.pydata.org/">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-</a>
-
-</p>
-
-#### 🎨 Design & Development
-
-<p align="left">
-
-<a href="https://www.figma.com/">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server/">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQL Server"/>
-</a>
-
-<a href="https://www.oracle.com/database/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-</a>
-
-</p>
-
----
-
-<!-- ===================== RESEARCH ===================== -->
-
-### 🔬 Research Interests
+</div>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-ff85b3?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Explainable%20AI-f78fb3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-ff69b4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20Learning-ff85b3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Healthcare%20AI-f78fb3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-FF85B3?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-FF9BC2?style=for-the-badge&logoColor=white"/>
+
+</p>
+
+### 📈 Data Visualization
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-FF85B3?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF9BC2?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### 🎨 Design & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,github,vscode&theme=light" />
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF85B3?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-### 📚 Selected Research
+## 🔬 Research Interests
 
-#### 🧒 Stunting Classification
+<div align="center">
+
+🌸 **Machine Learning**
+🌸 **Explainable Artificial Intelligence**
+🌸 **Computer Vision**
+🌸 **Multimodal Learning**
+🌸 **Healthcare AI**
+🌸 **Predictive Modeling**
+
+</div>
+
+---
+
+## 📚 Selected Research
+
+### 🧒 Stunting Classification
 
 Machine Learning research for **stunting risk classification** using Support Vector Machine with a metaheuristic optimization approach and Explainable AI.
 
-**Focus:**
+**Focus**
+
 `SVM` · `IDGWO` · `SMOTE` · `SHAP` · `Classification`
 
-#### 🩺 Pediatric Appendicitis Diagnosis
+---
+
+### 🩺 Pediatric Appendicitis Diagnosis
 
 A **multimodal learning** approach combining ultrasound images and clinical data for pediatric appendicitis diagnosis.
 
-**Focus:**
+**Focus**
+
 `EfficientNet-B0` · `XGBoost` · `Multimodal Fusion` · `SHAP` · `Grad-CAM`
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
+## 📊 GitHub Statistics
 
-### 💼 Experience
+<div align="center">
 
-#### Digital Transformation Intern
+<img src="https://github-readme-stats.vercel.app/api?username=Anila-Dwi-Lestari&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff5fa" height="170"/>
 
-**PT Denso Indonesia**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anila-Dwi-Lestari&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=fff5fa" height="170"/>
 
-Working on digital transformation initiatives, particularly in **HRMS and Performance Management**, including:
-
-* UI/UX Design
-* Design System Development
-* Management by Objectives (MBO)
-* Performance Evaluation Workflow
-* KPI Management
-* Dashboard Design
-* System Interface Design
+</div>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+## 🔥 GitHub Streak
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
+<img src="https://streak-stats.demolab.com?user=Anila-Dwi-Lestari&hide_border=true&background=FFF5FA&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=999999" />
 
-<a href="https://linkedin.com/in/aniladwilestari">
-<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/heynilaaa_">
-<img src="https://img.shields.io/badge/Instagram-ff85b3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://dribbble.com/aniladwilestariii_">
-<img src="https://img.shields.io/badge/Dribbble-f78fb3?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-</a>
-
-<a href="https://www.behance.net/aniladwilestari">
-<img src="https://img.shields.io/badge/Behance-ff69b4?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-</a>
-
-<a href="https://medium.com/aniladwilestariii">
-<img src="https://img.shields.io/badge/Medium-ff85b3?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-aniladwilestariii%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</p>
+</div>
 
 ---
 
-<!-- ===================== GITHUB STREAK ===================== -->
+## 🐍 Contribution Graph
 
-### 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Anila-Dwi-Lestari/Anila-Dwi-Lestari/output/github-contribution-grid-snake-pink.svg" alt="GitHub Contribution Snake"/>
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=anila-dwi-lestari&theme=rose-pine&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</p>
+</div>
 
 ---
 
-<!-- ===================== CONTRIBUTION ===================== -->
+## 🤝 Connect With Me
 
-### 🐍 Contribution Graph
+<div align="center">
 
-<p align="center">
+<a href="https://www.linkedin.com/in/aniladwilestari/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img 
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
+<a href="mailto:aniladwilestari@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF85B3?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://github.com/Anila-Dwi-Lestari">
+<img src="https://img.shields.io/badge/GitHub-FF9BC2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</div>
 
-<!-- ===================== FOOTER ===================== -->
+<br>
 
-<p align="center">
-  <i>✨ Always learning, building, researching, and improving.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile! 💗</b>
-</p>
+### 🌷 Thanks for visiting my profile! ♡
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9acb,50:f78fb3,100:ff69b4&height=100&section=footer"
-    width="100%"
-  />
-</p>
+<img src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gif" width="120">
+
+<br>
+
+**Let's learn, build, and grow together! 🎀**
+
+</div>
