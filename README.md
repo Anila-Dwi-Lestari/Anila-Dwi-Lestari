@@ -57,7 +57,12 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analysis-D63384?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Data%20Visualization-C2185B?style=for-the-badge"/><img src="https://img.shields.io/badge/Machine%20Learning-E83E8C?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/Explainable%20AI-D63384?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer%20Vision-C2185B?style=for-the-badge"/><img src="https://img.shields.io/badge/Multimodal%20Learning-E83E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-D63384?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-C2185B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-E83E8C?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-D63384?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-C2185B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal%20Learning-E83E8C?style=for-the-badge"/>
 
 </p>
 
@@ -154,7 +159,12 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-D63384?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-C2185B?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/C%23-E83E8C?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-D63384?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/PHP-C2185B?style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/SQL-E83E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-D63384?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-C2185B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-E83E8C?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-D63384?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-C2185B?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-E83E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
@@ -162,7 +172,11 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Pandas-D63384?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-C2185B?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/Scikit--Learn-E83E8C?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-D63384?style=for-the-badge&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/TensorFlow-C2185B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-D63384?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-C2185B?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-E83E8C?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-D63384?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-C2185B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
 
@@ -170,7 +184,10 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Power%20BI-D63384?style=for-the-badge&logo=powerbi&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-C2185B?style=for-the-badge&logo=tableau&logoColor=white"/><img src="https://img.shields.io/badge/Matplotlib-E83E8C?style=for-the-badge"/><img src="https://img.shields.io/badge/Seaborn-D63384?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-D63384?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-C2185B?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-E83E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-D63384?style=for-the-badge"/>
 
 </p>
 
@@ -178,7 +195,11 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Figma-D63384?style=for-the-badge&logo=figma&logoColor=white"/><img src="https://img.shields.io/badge/Git-C2185B?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-E83E8C?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Oracle-D63384?style=for-the-badge&logo=oracle&logoColor=white"/><img src="https://img.shields.io/badge/SQL%20Server-C2185B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-D63384?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-C2185B?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-E83E8C?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-D63384?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-C2185B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </p>
 
@@ -190,7 +211,12 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science-D63384?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Machine%20Learning-C2185B?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/Explainable%20AI-E83E8C?style=for-the-badge"/><img src="https://img.shields.io/badge/Computer%20Vision-D63384?style=for-the-badge"/><img src="https://img.shields.io/badge/Multimodal%20Learning-C2185B?style=for-the-badge"/><img src="https://img.shields.io/badge/Healthcare%20AI-E83E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-D63384?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-C2185B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-E83E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-D63384?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal%20Learning-C2185B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare%20AI-E83E8C?style=for-the-badge"/>
 
 </p>
 
@@ -203,6 +229,7 @@ src="https://i.pinimg.com/originals/65/05/77/650577673fad701100d239c52fb6f044.gi
 Machine Learning research for **stunting risk classification** using Support Vector Machine with a metaheuristic optimization approach and Explainable AI.
 
 **Focus:**
+
 `SVM` · `IDGWO` · `SMOTE` · `SHAP` · `Classification`
 
 #### 🩺 Pediatric Appendicitis Diagnosis
@@ -210,6 +237,7 @@ Machine Learning research for **stunting risk classification** using Support Vec
 A **multimodal learning** approach combining ultrasound images and clinical data for pediatric appendicitis diagnosis.
 
 **Focus:**
+
 `EfficientNet-B0` · `XGBoost` · `Multimodal Fusion` · `SHAP` · `Grad-CAM`
 
 ---
@@ -218,9 +246,27 @@ A **multimodal learning** approach combining ultrasound images and clinical data
 
 ### 🤝 Connect With Me
 
-<p align="center"><a href="https://linkedin.com/in/aniladwilestari"><img src="https://img.shields.io/badge/LinkedIn-D63384?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://instagram.com/heynilaaa_"><img src="https://img.shields.io/badge/Instagram-C2185B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="https://dribbble.com/aniladwilestariii_"><img src="https://img.shields.io/badge/Dribbble-E83E8C?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a><a href="https://www.behance.net/aniladwilestari"><img src="https://img.shields.io/badge/Behance-D63384?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a><a href="https://medium.com/aniladwilestariii"><img src="https://img.shields.io/badge/Medium-C2185B?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/aniladwilestari">
+    <img src="https://img.shields.io/badge/LinkedIn-D63384?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/heynilaaa_">
+    <img src="https://img.shields.io/badge/Instagram-C2185B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://dribbble.com/aniladwilestariii_">
+    <img src="https://img.shields.io/badge/Dribbble-E83E8C?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+  <a href="https://www.behance.net/aniladwilestari">
+    <img src="https://img.shields.io/badge/Behance-D63384?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://medium.com/aniladwilestariii">
+    <img src="https://img.shields.io/badge/Medium-C2185B?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Email-aniladwilestariii%40gmail.com-D63384?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-aniladwilestariii%40gmail.com-D63384?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</p>
 
 ---
 
@@ -233,21 +279,6 @@ A **multimodal learning** approach combining ultrasound images and clinical data
 <img 
 src="https://github-readme-streak-stats.herokuapp.com/?user=anila-dwi-lestari&theme=rose-pine&hide_border=true"
 alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION ===================== -->
-
-### 🐍 Contribution Graph
-
-<p align="center">
-
-<img 
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
 />
 
 </p>
